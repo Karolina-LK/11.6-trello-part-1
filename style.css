@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
+
+* {
+  border: solid orange 1px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #ff7b00;
+ }
+
+.board {
+  background-color: #f4f43f;
+  text-align: center;
+}
+
+.column-container {
+  background-color: #7af47a;
+  font-size: 19px;
+}
+
+button {
+ padding: 5px;
+ margin: 5px;
+ border-radius: 25%;
+ background-color: #9a9b93;
+ color: #fff;
+}
+
+
